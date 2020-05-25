@@ -1,0 +1,76 @@
+body {
+    background-color: #222629;
+    color: white;
+    font-family: 'Crimson Text', serif;
+  }
+  
+  #main-doc {
+    height: 100%;
+    width: 100%;
+    padding-top: 25px;
+  }
+  .main-section {
+    padding-left: 340px;
+  }
+  
+  header {
+    font-size: 45px;
+    opacity: 0.6;
+    padding: 10px 0px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  
+  .sub-heading-text {
+    font-size: 30px;
+    line-height: 0.8;
+    margin: 20px 0px;
+  }
+  
+  
+  #navbar {
+    position: fixed; 
+    background-color: #474b4f;
+    width: 300px;
+    height: 100%; 
+  }
+  
+  ul {
+    list-style: none;
+    
+  }
+  
+  a:link {
+    text-decoration: none;
+    color: white;
+  }
+  
+  a:visited {
+    color: white;
+  }
+  
+  .nav-link {
+    font-size: 30px;
+  }
+  
+  h2 {
+    font-size: 20px;  
+    font-family: 'Muli', sans-serif;  
+    color: #86c232;
+    font-weight: 500;
+    padding-top: 20px;
+  }
+  
+  .blockqoute {
+    padding-left: 1.375em;
+    border-left: 0.375em solid #61892f;
+    font-size: 20px;
+    opacity: 0.5;
+  }
+  
+  .box {
+    padding-left: 50px;
+  }
+  
